@@ -28,5 +28,9 @@
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1"
-  }
+  },
+  "description": "This app was created with Bootify.io - tips on working with the code [can be found here](https://bootify.io/next-steps/). Feel free to contact us for further questions.",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "license": "ISC"
 }
